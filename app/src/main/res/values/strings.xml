@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atence</string>
+    <string name="StudentPassword">Password</string>
+    <string name="studentID">ID</string>
+    <string name="login">Login</string>
+    <string name="give_attendance">Give Attendance</string>
+    <string name="take_attendance">Take Attendance</string>
+</resources>
